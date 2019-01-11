@@ -22,6 +22,18 @@ a:active {
   color:grey;
 }
 
-p {
+/* p {
   text-align: center;
+} */
+
+.git-panel {
+  background-image: url("../img/water2.gif");
+  background-size: cover;
+}
+.panel-heading {
+  text-align: center;
+}
+
+.git-text {
+  color: white;
 }
