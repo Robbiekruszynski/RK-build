@@ -1,37 +1,60 @@
 # Portfolio of Robbie Kruszynski
 
-#### Personal Portfolio demonstrating manipulation within HTML5 and CSS, 01/11/19
+#### Personal Portfolio demonstrating abilities within HTML5 and CSS, 01/11/19
 
 #### By **Robbie Kruszynski**
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+-Creating a website that showcases knowledge of HTML5 and css
+-Within css creating both a custom stylesheet along with bootstrap implementation
+-Meeting project requirements which are listed below
+  -The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, span
+  -Project includes a custom-made stylesheet that uses cascading, the box model, and floats.
+-Beyond the assignment requirements, this is also an experiment with minimal design
+  -A foundation for a personal website that will be updated throughout the class
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* Through github, your clone link for this project is found here https://github.com/Robbiekruszynski/week-1-project.git
+* within terminal enter
+    -cd desktop
+    -git clone https://github.com/Robbiekruszynski/week-1-project.git
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* Open directory titled week-1-project now located on desktop
+* Open file titled index.html with your browser
+* Explore the website using the navigation tabs
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+Bug known in index.html                        -01/11/19
+LINE 25: <embed src="files/rk.pdf"width="800px" height=1000" />
+          </div>
+        </div>
+      </body>
+    </html>
+code post line 25 stays green opposed to white
+embedded element <embed src="files/rk.pdf" does not have a close to adjust this
+                 <embed src="files/rk.pdf"> corrects the color of code
+                 however, it negatively impacts the resume on the viewport.
+
+Unable to to close the PDF without manipulation of current standing negatively.
+
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+Robbie Kruszynski
+robbiekruszynski@gmail.com
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+This project was entirely created with
+-HTML5,
+-CSS
+  -(both personal stylesheet and bootstrap).
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This project is licensed under the MIT License*
 
 Copyright (c) 2019 **Robbie Kruszynski**
