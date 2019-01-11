@@ -62,3 +62,20 @@ p {
 .painting-below {
   float: left;
 }
+
+.git-total {
+  text-align: center;
+  list-style-position: inside;
+  margin: 0 auto;
+
+}
+.blue-square-container {
+  text-align: center;
+}
+
+/* .blue-square {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+} */
