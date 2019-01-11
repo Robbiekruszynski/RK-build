@@ -27,18 +27,18 @@
 
 ## Known Bugs
 
-Bug known in index.html                        -01/11/19
-LINE 25: <embed src="files/rk.pdf"width="800px" height=1000" />
-          </div>
-        </div>
-      </body>
-    </html>
-code post line 25 stays green opposed to white
-embedded element <embed src="files/rk.pdf" does not have a close to adjust this
-                 <embed src="files/rk.pdf"> corrects the color of code
-                 however, it negatively impacts the resume on the viewport.
+* Bug known in index.html                        -01/11/19
+* LINE 25: <embed src="files/rk.pdf"width="800px" height=1000" />
+*           </div>
+*         </div>
+*       </body>
+*     </html>
+* code post line 25 stays green opposed to white
+* embedded element <embed src="files/rk.pdf" does not have a close to adjust this
+*                  <embed src="files/rk.pdf"> corrects the color of code
+*                  however, it negatively impacts the resume on the viewport.
 
-Unable to to close the PDF without manipulation of current standing negatively.
+* Unable to to close the PDF without manipulation of current standing negatively.
 
 
 ## Support and contact details
