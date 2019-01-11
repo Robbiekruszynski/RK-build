@@ -15,9 +15,9 @@
 }
 
 a:hover{
-  color:black;
+  color:lightblue;
 }
 
-a:active: {
+a:active {
   color:grey;
 }
