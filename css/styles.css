@@ -21,3 +21,7 @@ a:hover{
 a:active {
   color:grey;
 }
+
+p {
+  text-align: center;
+}
