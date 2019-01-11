@@ -1,6 +1,6 @@
 .jumbotron {
   text-align: center;
-  background-image: url("../img/clouds.gif");
+  background-image: url("../img/hand.gif");
   background-size: cover;
 }
 
@@ -27,7 +27,7 @@ p {
 }
 
 .git-panel {
-  background-image: url("../img/water2.gif");
+  background-image: url("../img/dots.gif");
   background-size: cover;
 }
 .panel-heading {
@@ -72,10 +72,3 @@ p {
 .blue-square-container {
   text-align: center;
 }
-
-/* .blue-square {
-  background-color: blue;
-  width: 100px;
-  height: 100px;
-  display: inline-block;
-} */
