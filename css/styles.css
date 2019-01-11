@@ -1,0 +1,23 @@
+.jumbotron {
+  text-align: center;
+  background-image: url("../img/clouds.gif");
+  background-size: cover;
+}
+
+/* body {
+  background-color: #d3d3d3;
+} */
+
+
+.navbar {
+  text-align: center;
+  color: black;
+}
+
+a:hover{
+  color:black;
+}
+
+a:active: {
+  color:grey;
+}
