@@ -4,22 +4,27 @@
   background-size: cover;
 }
 
-/* body {
-  background-color: #d3d3d3;
-} */
-
 
 .navbar {
   text-align: center;
-  color: black;
+  color:black;
+}
+
+a {
+  color:grey;
+
+}
+h2 {
+  text-align: center;
 }
 
 a:hover{
-  color:lightblue;
+  color:#6376A1;
+  transition: 1.0s;
 }
 
 a:active {
-  color:grey;
+  color:black;
 }
 
 p {
@@ -60,7 +65,7 @@ p {
 }
 
 .painting-below {
-  float: left;
+  margin-left: 20px;
 }
 
 .git-total {

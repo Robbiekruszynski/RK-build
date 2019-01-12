@@ -6,13 +6,13 @@
 
 ## Description
 
--Creating a website that showcases knowledge of HTML5 and css
--Within css creating both a custom stylesheet along with bootstrap implementation
--Meeting project requirements which are listed below
-  -The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, span
-  -Project includes a custom-made stylesheet that uses cascading, the box model, and floats.
--Beyond the assignment requirements, this is also an experiment with minimal design
-  -A foundation for a personal website that will be updated throughout the class
+* Creating a website that showcases knowledge of HTML5 and css
+* Within css creating both a custom stylesheet along with bootstrap implementation
+* -Meeting project requirements which are listed below
+*   -The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, span
+*   -Project includes a custom-made stylesheet that uses cascading, the box model, and floats.
+* -Beyond the assignment requirements, this is also an experiment with minimal design
+*   -A foundation for a personal website that will be updated throughout the class
 
 ## Setup/Installation Requirements
 
@@ -28,7 +28,8 @@
 ## Known Bugs
 
 * Bug known in index.html                        -01/11/19
-* LINE 25: <embed src="files/rk.pdf"width="800px" height=1000" />
+* LINE 25:
+*            <embed src="files/rk.pdf"width="800px" height=1000" />
 *           </div>
 *         </div>
 *       </body>
@@ -49,9 +50,9 @@ robbiekruszynski@gmail.com
 ## Technologies Used
 
 This project was entirely created with
--HTML5,
--CSS
-  -(both personal stylesheet and bootstrap).
+* -HTML5,
+* -CSS
+*   -(both personal stylesheet and bootstrap).
 
 ### License
 
