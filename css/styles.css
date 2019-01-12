@@ -19,7 +19,7 @@ h2 {
 }
 
 a:hover{
-  color:#6376A1;
+  color:#black;
   transition: 1.0s;
 }
 
@@ -32,7 +32,7 @@ p {
 }
 
 .git-panel {
-  background-image: url("../img/dots.gif");
+  background-image: url("../img/ball.gif");
   background-size: cover;
 }
 .panel-heading {
@@ -40,11 +40,11 @@ p {
 }
 
 .git-text {
-  color: white;
+  color: black;
 }
 
 .git-text-2 {
-  color: white;
+  color: black;
 }
 
 .resume {
