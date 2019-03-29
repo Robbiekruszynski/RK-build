@@ -74,6 +74,12 @@ p {
   margin: 0 auto;
 
 }
+
+
+ul {
+  list-style-type: none;
+}
+}
 .blue-square-container {
   text-align: center;
 }
